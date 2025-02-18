@@ -1,15 +1,19 @@
 # Stateful Clones
 
-### Description
+## 🎮 About the Project
+A JavaScript function that copies the state and generates a clone with the same properties.
 
-- Added a function that copies state
-  
-### Stack
+## 🚀 Tech Stack
+- **JavaScript** (Function implementation and logic)
 
-- JS
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality
+- **Prettier** – Code formatting for readability
+- **Jest** – Unit testing framework
 
-### Tools
+## 📌 Features
+✅ Clones state and maintains properties  
+✅ Efficient and simple implementation  
 
-- ESlint
-- Prettier
-- Jest
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/js_stateful-clones)
